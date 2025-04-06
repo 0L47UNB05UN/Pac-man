@@ -31,7 +31,7 @@ This is a custom Pac-Man game designed from scratch. It follows the classic arca
 
 ## 🖼️ Screenshots
 
-![Game play](assets/screenshhot)
+![Game play](assets/screenshhot.git)
 
 ## 🛠️ Libraries Used
 
